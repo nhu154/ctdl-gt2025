@@ -1,1 +1,1 @@
-# ctdl-gt2025
+# Bài tập môn Cấu trúc dữ liệu và giải thuật
